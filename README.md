@@ -17,7 +17,7 @@ Quickly brush up on basic design patterns
 
 |     | **Pattern** | **When to use?**                                        | **Example** |
 | --- | ----------- | ------------------------------------------------------- | ----------- |
-|     | Adapter     | Match interfaces of different classes                   | [TS](#)     |
+|     | Adapter     | Match interfaces of different classes                   | [TS](#) JAVA|
 |     | Bridge      | Separates an object’s interface from its implementation | [TS](#)     |
 |     | Composite   | A tree structure of simple and composite objects        | [TS](#)     |
 |     | Decorator   | Add responsibilities to objects dynamically             | [TS](#)     |
